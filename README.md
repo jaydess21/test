@@ -1,6 +1,3 @@
-Here's a basic README file for your Swift Xcode project:
-
-```markdown
 # AntiMood
 
 AntiMood is an iOS app designed to [provide a brief description of your app's purpose].
@@ -71,6 +68,5 @@ We welcome contributions! If you'd like to contribute to AntiMood, please follow
 
 This project is licensed under the [MIT License](LICENSE).
 
-```
 
 Make sure to replace placeholders like `[version]`, `[Briefly describe feature 1]`, etc., with your actual details. You may also want to add more sections or details based on your project's specific needs.
