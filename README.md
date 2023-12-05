@@ -70,7 +70,7 @@ Follow these steps to get the project running on your local machine:
    open AntiMood.xcodeproj
    ```
 
-3. Build and run the project in the iOS Simulator or on your physical iOS device.
+3. Build and run the project in the iOS Simulator or on your physical iOS device
 
 
 
