@@ -1,6 +1,10 @@
-# AntiMood
+# Anti' Mood
 
-AntiMood is an iOS app designed to [provide a brief description of your app's purpose].
+### Group 07 names: 
+*  Jayde Shaw
+*  Brittany Strong
+*  Kaela Kent
+*  Milot Jeune
 
 ## Table of Contents
 
@@ -14,13 +18,35 @@ AntiMood is an iOS app designed to [provide a brief description of your app's pu
 
 ## Introduction
 
-AntiMood is [briefly describe the main purpose and features of your app].
+Introducing our innovative Anti-Procrastination App – a strategic solution crafted to combat the pervasive issue of procrastination and cater to a diverse audience seeking heightened productivity. Experience the convenience of setting and achieving goals directly on the homepage, transforming aspirations into tangible successes. Boost your efficiency with the personalized Focus Timer, enabling you to enter tasks, start the timer, and receive timely notifications upon completion. Transition seamlessly to the Daily Routine page, your wellness hub, to track water intake, monitor daily steps, and effortlessly log meals, workouts, and their durations – complete with photo attachments. 
 
 ## Features
 
-- Feature 1: [Briefly describe feature 1]
-- Feature 2: [Briefly describe feature 2]
-- ...
+Certainly! Here's an explanation for each function based on the provided information:
+
+- [x] **Login/Sign-in functionality:**
+  - Users can securely log in or sign up to the Anti-Mood app. 
+
+- [x] **Homepage:**
+  - The homepage features a navigation bar (navbar) for easy access to various sections of the app.
+  - Users can add and manage their goals directly from the homepage, simplifying the goal-setting process.
+  - The option to check off days provides a visual representation of progress and achievements.
+     
+- [x] **Daily routine page: Ability to add water intake and steps, navigate to daily intake/workout pages:**
+  - Users can log their daily water intake and monitor their steps within the daily routine page.
+  - The ability to navigate to specific pages for daily intake and workouts enhances the user's control over their health and fitness data.
+
+- [x] **Daily intake/workout page:**
+  - Users can log their food consumption.
+  - The option to insert pictures of food provides a visual record for a more comprehensive log.
+  - Users can also log their workouts, keeping track of their physical activity.
+
+- [x] **Timer:**
+  - The timer function allows users to set tasks, start timers, and adjust time durations by adding or subtracting.
+  - Users receive notifications upon timer completion, helping them manage tasks efficiently.
+
+## Screenshots
+<img src="https://i.ibb.co/c2Fg8kv/Wireframe.png" alt="Wireframe" border="0">
 
 ## Prerequisites
 
@@ -28,7 +54,7 @@ Before you begin, ensure you have the following installed:
 
 - Xcode [version]
 - iOS Simulator or a physical iOS device
-- [Any other dependencies or tools]
+- [ParseSwift]
 
 ## Getting Started
 
@@ -46,23 +72,8 @@ Follow these steps to get the project running on your local machine:
 
 3. Build and run the project in the iOS Simulator or on your physical iOS device.
 
-## Usage
 
-Once the app is running, you can [provide instructions on how to use your app]. For example:
 
-- Log in using your credentials.
-- Explore the homepage and interact with the UI elements.
-- ...
-
-## Contributing
-
-We welcome contributions! If you'd like to contribute to AntiMood, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/new-feature`.
-3. Make your changes and commit them: `git commit -m 'Add new feature'`.
-4. Push to the branch: `git push origin feature/new-feature`.
-5. Submit a pull request.
 
 ## License
 
